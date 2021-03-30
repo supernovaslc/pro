@@ -54,18 +54,5 @@
                 "star": "****",
                 "bought": 100,
                 "nation": "Ha Noi"
-            },
-            {
-                "id": 6,
-                "uri": "image/note10",
-                "title": "Note 10",
-                "price": 1000,
-                "discount": 50,
-                "cost": 2000,
-                "star": "****",
-                "bought": 100,
-                "nation": "Ha Noi"
             }
-        
-    
 ]
