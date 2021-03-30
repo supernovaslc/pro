@@ -1,7 +1,5 @@
 [
-    {
-        "label": "Quan ao Nam",
-        "data":[
+ 
             {
                 "id": 1,
                 "uri": "image/aothunnam",
@@ -23,12 +21,7 @@
                 "star": "****",
                 "bought": 100,
                 "nation": "Ha Noi"
-            }
-        ]
-    },
-    {
-        "label": "Quan ao Nu",
-        "data": [
+            },
             {
                 "id": 1,
                 "uri": "image/aothunnu",
@@ -50,12 +43,7 @@
                 "star": "****",
                 "bought": 100,
                 "nation": "Ha Noi"
-            }
-        ]
-    },
-    {
-        "label": "Dien thoai",
-        "data": [
+            },
             {
                 "id": 1,
                 "uri": "image/iphonex",
@@ -78,6 +66,6 @@
                 "bought": 100,
                 "nation": "Ha Noi"
             }
-        ]
-    }
+        
+    
 ]
