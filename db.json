@@ -23,7 +23,7 @@
                 "nation": "Ha Noi"
             },
             {
-                "id": 1,
+                "id": 3,
                 "uri": "image/aothunnu",
                 "title": "Ao thun nu",
                 "price": 10,
@@ -34,7 +34,7 @@
                 "nation": "Ha Noi"
             },
             {
-                "id": 2,
+                "id": 4,
                 "uri": "image/damnu",
                 "title": "Dam nu",
                 "price": 10,
@@ -45,7 +45,7 @@
                 "nation": "Ha Noi"
             },
             {
-                "id": 1,
+                "id": 5,
                 "uri": "image/iphonex",
                 "title": "IphoneX",
                 "price": 1000,
@@ -56,7 +56,7 @@
                 "nation": "Ha Noi"
             },
             {
-                "id": 2,
+                "id": 6,
                 "uri": "image/note10",
                 "title": "Note 10",
                 "price": 1000,
