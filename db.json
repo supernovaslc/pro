@@ -5,7 +5,6 @@
                 "uri": "image/aothunnam",
                 "title": "Ao thun nam",
                 "price": 10,
-                "star": "****",
                 "nation": "Ha Noi"
             },
             {
@@ -13,7 +12,6 @@
                 "uri": "image/quanbonam",
                 "title": "Quan bo nam",
                 "price": 10,     
-                "star": "****",
                 "nation": "Ha Noi"
             },
             {
@@ -21,7 +19,6 @@
                 "uri": "image/aothunnu",
                 "title": "Ao thun nu",
                 "price": 10,
-                "star": "****",
                 "nation": "Ha Noi"
             },
             {
@@ -29,7 +26,6 @@
                 "uri": "image/damnu",
                 "title": "Dam nu",
                 "price": 10,
-                "star": "****",
                 "nation": "Ha Noi"
             },
             {
@@ -37,7 +33,6 @@
                 "uri": "image/iphonex",
                 "title": "IphoneX",
                 "price": 1000,
-                "star": "****",
                 "nation": "Ha Noi"
             }
 ]
