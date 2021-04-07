@@ -1,38 +1,31 @@
 [
  
-            {
-                "id": 1,
-                "uri": "image/aothunnam",
-                "title": "Ao thun nam",
-                "price": 10,
-                "nation": "Ha Noi"
-            },
-            {
-                "id": 2,
-                "uri": "image/quanbonam",
-                "title": "Quan bo nam",
-                "price": 10,     
-                "nation": "Ha Noi"
-            },
-            {
-                "id": 3,
-                "uri": "image/aothunnu",
-                "title": "Ao thun nu",
-                "price": 10,
-                "nation": "Ha Noi"
-            },
-            {
-                "id": 4,
-                "uri": "image/damnu",
-                "title": "Dam nu",
-                "price": 10,
-                "nation": "Ha Noi"
-            },
-            {
-                "id": 5,
-                "uri": "image/iphonex",
-                "title": "IphoneX",
-                "price": 1000,
-                "nation": "Ha Noi"
-            }
+    {
+        id: 1,
+        name: "Mien Bac",
+        labels: [
+          {id:1, label: "Iphone1"},
+          {id:2, label: "Ipad1"},
+          {id:3, label: "Ipod1"}
+        ],
+    },
+    {
+        id: 2,
+        name: "Mien Nam",
+        labels: [
+          {id:1, label: "Iphone2"},
+          {id:2, label: "Ipad2"},
+          {id:3, label: "Ipod2"}
+        ],
+    },
+    {
+        id: 3,
+        name: "Mien Trung",
+        labels: [
+          {id:1, label: "Iphone3"},
+          {id:2, label: "Ipad3"},
+          {id:3, label: "Ipod3"}
+        ],
+    },
+
 ]
